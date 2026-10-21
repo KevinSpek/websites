@@ -64,14 +64,13 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Advent of code](http://adventofcode.com/)
 - [Algorithm visualiser](http://algo-visualizer.jasonpark.me/)
-- [Code school](https://www.codeschool.com/)
+- [Coddy](https://coddy.tech/playground/html) - Online HTML, CSS and JavaScript editor with a live preview.
 - [Codility](https://codility.com/programmers/)
 - [Docker hub](https://hub.docker.com/) - Dev-test pipeline automation.
 - [Glot.io](https://glot.io/) - Open source pastebin with runnable snippets and API.
 - [Hackr](https://hackr.io/) - Find programming Courses & Tutorials.
 - [Leetcode discuss](https://discuss.leetcode.com/category/5/interview-questions)
 - [Libraries.io](https://libraries.io/)
-- [Mozilla Thimble](https://thimble.mozilla.org/en-US/) - Online code editor.
 - [Netlify](https://www.netlify.com/) - Web hosting for static website through a CLI environment.
 - [OverAPI](http://overapi.com/)
 - [Realm](https://realm.io/)
